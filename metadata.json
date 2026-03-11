@@ -1,0 +1,5 @@
+{
+  "name": "Bảng Vinh Danh Đóng Góp",
+  "description": "Ứng dụng chạy chữ vinh danh danh sách đóng góp từ file Excel với hiệu ứng mờ dần.",
+  "requestFramePermissions": []
+}
